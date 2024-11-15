@@ -1,0 +1,14 @@
+/Users/no1/Igor/20241115/Usercounter/obj/Debug/net8.0/Usercounter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/no1/Igor/20241115/Usercounter/obj/Debug/net8.0/Usercounter.AssemblyInfoInputs.cache
+/Users/no1/Igor/20241115/Usercounter/obj/Debug/net8.0/Usercounter.AssemblyInfo.cs
+/Users/no1/Igor/20241115/Usercounter/obj/Debug/net8.0/Usercounter.csproj.CoreCompileInputs.cache
+/Users/no1/Igor/20241115/Usercounter/bin/Debug/net8.0/Usercounter
+/Users/no1/Igor/20241115/Usercounter/bin/Debug/net8.0/Usercounter.deps.json
+/Users/no1/Igor/20241115/Usercounter/bin/Debug/net8.0/Usercounter.runtimeconfig.json
+/Users/no1/Igor/20241115/Usercounter/bin/Debug/net8.0/Usercounter.dll
+/Users/no1/Igor/20241115/Usercounter/bin/Debug/net8.0/Usercounter.pdb
+/Users/no1/Igor/20241115/Usercounter/obj/Debug/net8.0/Usercounter.dll
+/Users/no1/Igor/20241115/Usercounter/obj/Debug/net8.0/refint/Usercounter.dll
+/Users/no1/Igor/20241115/Usercounter/obj/Debug/net8.0/Usercounter.pdb
+/Users/no1/Igor/20241115/Usercounter/obj/Debug/net8.0/Usercounter.genruntimeconfig.cache
+/Users/no1/Igor/20241115/Usercounter/obj/Debug/net8.0/ref/Usercounter.dll
